@@ -15,6 +15,7 @@ I'm __Mohamad__, a passionate developer who loves coding, learning, and building
 
 😎 "Keep it simple, keep it clean."
 
+<div align="center">
 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=mohamadshakibaa&show_icons=true&theme=radical)
 
