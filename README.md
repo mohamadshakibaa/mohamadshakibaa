@@ -7,7 +7,7 @@ I'm __Mohamad__, a passionate developer who loves coding, learning, and building
 
 🚀 "Always learning, always building."
 
-🧩 "Turning ideas into reality, one commit at a time."
+🧩 "Turning ideas into reality, one commit at a time. "
 
 🎯 "Focus on progress, not perfection."
 
