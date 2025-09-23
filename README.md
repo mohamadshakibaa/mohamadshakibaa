@@ -24,35 +24,6 @@ I'm __Mohamad__, a passionate developer who loves coding, learning, and building
 ![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white) 
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
 
-name: generate pacman game
-
-on:
-  schedule:
-    - cron: "0 0 * * *"      # روزی یک‌بار
-  workflow_dispatch:         # اجرا دستی از تب Actions
-  push:
-    branches: [ main ]
-
-jobs:
-  generate:
-    permissions:
-      contents: write
-    runs-on: ubuntu-latest
-    timeout-minutes: 5
-    steps:
-      - name: Generate pacman-contribution-graph.svg
-        uses: abozanona/pacman-contribution-graph@main
-        with:
-          github_user_name: mohamadshakibaa
-
-      - name: Publish to output branch
-        uses: crazy-max/ghaction-github-pages@v3.1.0
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
 ## My Contribution Graph (Pac-Man)
 
 <picture>
