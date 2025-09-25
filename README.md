@@ -35,5 +35,5 @@ I'm __Mohamad__, a passionate developer who loves coding, learning, and building
 
 [![Telegram](https://img.shields.io/badge/Telegram-2AABEE?logo=telegram&logoColor=white&style=flat-square)](https://t.me/mohamadshakiba)
 
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=flat-square)](mailto:mohamadrasol123@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=flat-square)](mailto:mohamadshakiba09@gmail.com)
 ---
