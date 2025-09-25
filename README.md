@@ -1,12 +1,6 @@
 # Hi there 👋  
 I'm __Mohamad__, a passionate developer who loves coding, learning, and building cool stuff 🚀  
 - 🌱 Currently learning: Python 
-## 📫 How to reach me:
-### Linkdin : [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat-square)](https://www.linkedin.com/in/mohamadshakibaa)
-
-### Telegram : [![Telegram](https://img.shields.io/badge/Telegram-2AABEE?logo=telegram&logoColor=white&style=flat-square)](https://t.me/mohamadshakibaa)
-
-### Email : [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=flat-square)](mailto:mohamadrassol123@gmail.com)
 ---
 
 ✨ "Code, Coffee, Repeat." ☕💻
@@ -34,3 +28,12 @@ I'm __Mohamad__, a passionate developer who loves coding, learning, and building
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mohamadshakibaa/mohamadshakibaa/output/pacman-contribution-graph.svg" />
   <img alt="My Contribution Graph (Pac-Man)" src="https://raw.githubusercontent.com/mohamadshakibaa/mohamadshakibaa/output/pacman-contribution-graph.svg" />
 </picture>
+
+### 📬 How to reach me:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat-square)](https://www.linkedin.com/in/mohamadshakiba/)
+
+[![Telegram](https://img.shields.io/badge/Telegram-2AABEE?logo=telegram&logoColor=white&style=flat-square)](https://t.me/mohamadshakiba)
+
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=flat-square)](mailto:www.mohamadrasol123@gmail.com)
+---
