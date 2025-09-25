@@ -1,7 +1,13 @@
-## Hi there 👋  
+# Hi there 👋  
 I'm __Mohamad__, a passionate developer who loves coding, learning, and building cool stuff 🚀  
 - 🌱 Currently learning: Python 
-- 📫 How to reach me: `mohamadshakiba09@gmail.com` or Linkdin : `www.linkedin.com/in/mohamadshakiba`
+## 📫 How to reach me:
+### Linkdin : [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat-square)](https://www.linkedin.com/in/mohamadshakibaa)
+
+### Telegram : [![Telegram](https://img.shields.io/badge/Telegram-2AABEE?logo=telegram&logoColor=white&style=flat-square)](https://t.me/mohamadshakibaa)
+
+### Email : [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=flat-square)](mailto:mohamadrassol123@gmail.com)
+---
 
 ✨ "Code, Coffee, Repeat." ☕💻
 
