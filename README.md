@@ -1,6 +1,6 @@
 # Hi there 👋  
 I'm __Mohamad__, a passionate developer who loves coding, learning, and building cool stuff 🚀  
-- 🌱 Currently learning: Python 
+- 🌱 Currently learning: Python, FastAPI, Django
 ---
 
 ✨ "Code, Coffee, Repeat." ☕💻
