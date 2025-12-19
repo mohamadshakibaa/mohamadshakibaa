@@ -1,19 +1,9 @@
-# Hi there 👋  
-I'm __Mohamad__, a passionate developer who loves coding, learning, and building cool stuff 🚀  
-- 🌱 Currently learning: Python, FastAPI, Django
----
+Hi there 👋  
+I'm Mohamad, a Junior Python Backend Developer who enjoys building backend systems.
 
-✨ "Code, Coffee, Repeat." ☕💻
+Working with FastAPI, authentication systems, and relational databases.
+Currently learning Django and building real-world backend projects.
 
-🚀 "Always learning, always building."
-
-🧩 "Turning ideas into reality, one commit at a time. "
-
-🎯 "Focus on progress, not perfection."
-
-🌍 "Sharing knowledge through open source."
-
-😎 "Keep it simple, keep it clean."
 
 <div align="center">
 
