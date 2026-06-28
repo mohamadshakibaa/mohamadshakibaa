@@ -10,6 +10,7 @@ Currently learning Django and building real-world backend projects.
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=mohamadshakibaa&show_icons=true&theme=radical)
 
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white) 
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
 
