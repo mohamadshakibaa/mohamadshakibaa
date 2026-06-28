@@ -1,8 +1,7 @@
 Hi there 👋  
 I'm Mohamad, a Junior Python Backend Developer who enjoys building backend systems.
 
-Working with FastAPI, authentication systems, and relational databases.
-Currently learning Django and building real-world backend projects.
+Backend developer focused on Python, Django. Building practical web applications, working with authentication systems and relational databases, and improving my backend skills.
 
 
 <div align="center">
